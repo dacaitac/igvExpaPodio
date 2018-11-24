@@ -1,0 +1,34 @@
+{
+  "name": "igvexpapodio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacaitac/igvExpaPodio.git"
+  },
+  "keywords": [
+    "Expa",
+    "Podio",
+    "AIESEC",
+    "igv"
+  ],
+  "author": "Daniel Caita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dacaitac/igvExpaPodio/issues"
+  },
+  "homepage": "https://github.com/dacaitac/igvExpaPodio#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "json-patch": "^0.7.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.13",
+    "node-gis-wrapper": "0.0.2",
+    "nodemailer": "^4.7.0",
+    "podio-js": "^1.6.1"
+  }
+}
